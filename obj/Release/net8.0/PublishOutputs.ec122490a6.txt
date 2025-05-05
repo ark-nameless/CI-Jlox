@@ -1,5 +1,0 @@
-C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\publish\JLox.exe
-C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\publish\JLox.dll
-C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\publish\JLox.deps.json
-C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\publish\JLox.runtimeconfig.json
-C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\publish\JLox.pdb

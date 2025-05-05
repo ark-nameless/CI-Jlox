@@ -2,3 +2,8 @@ bin/*
 Properties/*
 obj/*
 .vs/*
+
+
+*.exe
+*.pdb
+*.csproj.user
