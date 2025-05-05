@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ark\\RiderProjects\\JLox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\lox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\lox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\astprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\astprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\helpers\\parseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\helpers\\parseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ark\\RiderProjects\\JLox\\bin\\Debug\\net8.0\\test.jlox||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0\\test.jlox||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\tool\\generateast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:tool\\generateast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\grammar\\stmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\grammar\\stmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\interpreter\\grammar\\expr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:interpreter\\grammar\\expr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|c:\\users\\ark\\riderprojects\\jlox\\jlox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BB221A7F-0161-44AE-BED8-9EDBEB95DB5D}|JLox.csproj|solutionrelative:jlox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "test.jlox",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\bin\\Debug\\net8.0\\test.jlox",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\test.jlox",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\bin\\Debug\\net8.0\\test.jlox",
+              "RelativeToolTip": "bin\\Debug\\net8.0\\test.jlox",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-18T15:46:08.89Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stmt.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Grammar\\Stmt.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Grammar\\Stmt.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Grammar\\Stmt.cs",
+              "RelativeToolTip": "Interpreter\\Grammar\\Stmt.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:40:23.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Parser.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Parser.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Parser.cs",
+              "RelativeToolTip": "Interpreter\\Parser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:13:37.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenerateAst.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Tool\\GenerateAst.cs",
+              "RelativeDocumentMoniker": "Tool\\GenerateAst.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Tool\\GenerateAst.cs",
+              "RelativeToolTip": "Tool\\GenerateAst.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:52:09.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Token.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Token.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Token.cs",
+              "RelativeToolTip": "Interpreter\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:49:27.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenType.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\TokenType.cs",
+              "RelativeDocumentMoniker": "Interpreter\\TokenType.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\TokenType.cs",
+              "RelativeToolTip": "Interpreter\\TokenType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:45:03.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:09:38.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParseError.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Helpers\\ParseError.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Helpers\\ParseError.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Helpers\\ParseError.cs",
+              "RelativeToolTip": "Interpreter\\Helpers\\ParseError.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:16:20.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Scanner.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Scanner.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Scanner.cs",
+              "RelativeToolTip": "Interpreter\\Scanner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:55:03.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Environment.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Environment.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Environment.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Environment.cs",
+              "RelativeToolTip": "Interpreter\\Environment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T14:27:49.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Expr.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Grammar\\Expr.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Grammar\\Expr.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Grammar\\Expr.cs",
+              "RelativeToolTip": "Interpreter\\Grammar\\Expr.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T13:38:03.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interpreter.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Interpreter.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Interpreter.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Interpreter.cs",
+              "RelativeToolTip": "Interpreter\\Interpreter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:44:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lox.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Lox.cs",
+              "RelativeDocumentMoniker": "Interpreter\\Lox.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\Lox.cs",
+              "RelativeToolTip": "Interpreter\\Lox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:18:59.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AstPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\AstPrinter.cs",
+              "RelativeDocumentMoniker": "Interpreter\\AstPrinter.cs",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\JLox\\Interpreter\\AstPrinter.cs",
+              "RelativeToolTip": "Interpreter\\AstPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T04:03:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JLox.csproj",
+              "DocumentMoniker": "C:\\Users\\ark\\RiderProjects\\jLox\\JLox.csproj",
+              "RelativeDocumentMoniker": "JLox.csproj",
+              "ToolTip": "C:\\Users\\ark\\RiderProjects\\jLox\\JLox.csproj",
+              "RelativeToolTip": "JLox.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T14:32:11.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

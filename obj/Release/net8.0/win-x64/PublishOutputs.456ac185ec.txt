@@ -1,0 +1,2 @@
+C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\publish\win-x64\JLox.pdb
+C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\publish\win-x64\JLox.exe

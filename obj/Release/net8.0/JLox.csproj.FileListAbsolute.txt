@@ -1,0 +1,14 @@
+C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\JLox.exe
+C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\JLox.deps.json
+C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\JLox.runtimeconfig.json
+C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\JLox.dll
+C:\Users\ark\RiderProjects\JLox\bin\Release\net8.0\JLox.pdb
+C:\Users\ark\RiderProjects\JLox\obj\Release\net8.0\JLox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ark\RiderProjects\JLox\obj\Release\net8.0\JLox.AssemblyInfoInputs.cache
+C:\Users\ark\RiderProjects\JLox\obj\Release\net8.0\JLox.AssemblyInfo.cs
+C:\Users\ark\RiderProjects\JLox\obj\Release\net8.0\JLox.csproj.CoreCompileInputs.cache
+C:\Users\ark\RiderProjects\JLox\obj\Release\net8.0\JLox.dll
+C:\Users\ark\RiderProjects\JLox\obj\Release\net8.0\refint\JLox.dll
+C:\Users\ark\RiderProjects\JLox\obj\Release\net8.0\JLox.pdb
+C:\Users\ark\RiderProjects\JLox\obj\Release\net8.0\JLox.genruntimeconfig.cache
+C:\Users\ark\RiderProjects\JLox\obj\Release\net8.0\ref\JLox.dll

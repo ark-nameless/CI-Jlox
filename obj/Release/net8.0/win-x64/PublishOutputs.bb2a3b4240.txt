@@ -1,0 +1,2 @@
+C:\Users\ark\RiderProjects\JLox\JLox.pdb
+C:\Users\ark\RiderProjects\JLox\JLox.exe
